@@ -1,0 +1,66 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "FoodorderingContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "FOApi",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[tblcustomer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblmenu]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblmenutype]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblorder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblorderdetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblpayment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblrating]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblsiteinfo]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "HUGO\\SQLEXPRESS.FoodOrdering",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
